@@ -1,0 +1,11 @@
+modify 1
+<<<<<<< HEAD
+modify 3
+modify 5
+modify 7
+||||||| merged common ancestors
+=======
+modify 2
+modify 4
+modify 6
+>>>>>>> dev1
